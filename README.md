@@ -1,4 +1,4 @@
-# Hello, I'm Natan :rocket:
+# Hello, I'm Nathan :rocket:
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Natan515.Natan515) 
 ![Github](https://img.shields.io/github/followers/Natan515?label=Follow&style=social)
