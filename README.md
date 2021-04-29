@@ -1,4 +1,4 @@
-# Hello, I'm Nathan :rocket:
+# Hello, I'm Natan :rocket:
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Natan515.Natan515) 
 ![Github](https://img.shields.io/github/followers/Natan515?label=Follow&style=social)
@@ -13,7 +13,7 @@ I want to make a discord bot using Python, and creata a game using Kotlin.
 
 ## :mailbox: How to contact me
 
-- The best way to reach me is via Email nathannews@protonmail.com.
+- The best way to reach me is via Email nathannews@protonmail.com
 
 ## Languages and Tools
 
