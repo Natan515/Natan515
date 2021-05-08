@@ -15,7 +15,7 @@ I want to make a discord bot using Python, and creata a game using Kotlin.
 
 - The best way to reach me is via Email nathannews@protonmail.com
 
-## :mywebsites: Just for fun
+## my websites Just for fun
 
 <a href="http://geuo7a3bwcz5t6dow254xgnvvukyqum2wkeiqqiuw6azi6zcjxmuw5qd.onion/">Dark web website</a> 
 <br>
