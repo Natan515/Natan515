@@ -17,7 +17,7 @@ I want to make a discord bot using Python, and creata a game using Kotlin.
 
 ## my websites Just for fun
 
-Dark web website - mostly offline http://geuo7a3bwcz5t6dow254xgnvvukyqum2wkeiqqiuw6azi6zcjxmuw5qd.onion
+Dark web website - mostly offline geuo7a3bwcz5t6dow254xgnvvukyqum2wkeiqqiuw6azi6zcjxmuw5qd.onion
 <br>
 Normal github website - natan515.github.io
 
