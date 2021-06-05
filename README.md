@@ -15,10 +15,8 @@ I want to make a discord bot using Python, and creata a game using Kotlin.
 
 - The best way to reach me is via Email nathannews@protonmail.com
 
-## 💻 My websites 
+## 💻 My website
 
-Dark web website - mostly offline http://geuo7a3bwcz5t6dow254xgnvvukyqum2wkeiqqiuw6azi6zcjxmuw5qd.onion
-<br>
 Normal github website - natan515.github.io
 
 ## Languages and Tools
