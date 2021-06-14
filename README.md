@@ -5,7 +5,7 @@
 
 ## :raised_eyebrow: Who am I
 
-I am a self-taught programer, currenly learning Kotlin to create Minecraft mods. Python so I can make a discord bot and to be able to gather information on people. 
+I am a self-taught programer, currenly learning Kotlin to create Minecraft mods Python so I can make a discord bot and to be able to gather information on people. 
 
 ## :gear: Future project ideas
 
