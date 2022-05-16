@@ -1,4 +1,4 @@
-# Hello, I'm Natan :rocket: 	<img src="https://cdn.cnn.com/cnnnext/dam/assets/220302231734-01-ukrainedao-nft-flag.jpg" alt="help-ukraine-win" height="40" style="vertical-align:top; margin:4px">
+# Hello, I'm Natan :rocket: 	<img src="https://media.istockphoto.com/photos/close-up-ukranian-flag-picture-id163641275?k=20&m=163641275&s=612x612&w=0&h=ZqrMwqwmGBkMZIpj5kTfTAVPuB4kIR4ekhMLpjQCk4Q=" alt="help-ukraine-win" height="15" style="vertical-align:top; margin:6px">
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Natan515.Natan515) 
 ![Github](https://img.shields.io/github/followers/Natan515?label=Follow&style=social)
