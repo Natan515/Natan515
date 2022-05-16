@@ -36,7 +36,7 @@ Normal github website - natan515.github.io
 </p>
 
 <br>
-
+ <script id="help-ukraine-win" async="true" src="https://helpukrainewinwidget.org/cdn/widget.js?type=one&position=top-left&layout=main"></script>
 ![ERROR 404](https://github-readme-stats.vercel.app/api?username=Natan515&show_icons=true&theme=tokyonight) 
 <br>
 ![ERROR 404](https://github-readme-stats.vercel.app/api/top-langs/?username=Natan515&theme=tokyonight)
